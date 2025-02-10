@@ -14,7 +14,7 @@ Reasearch interests
 
 I have a broad interest in Natural Language Processing (NLP) and Data-centric AI. Currently, my focus lies in the aspects of Large Language Models (LLMs), specifically on the attribution and traceability of LLM capabilities, as well as their multilingual and cross-cultural capabilities. For instance, my ongoing work delves into how to accurately attribute the performance and functions of LLMs to their training data. In addition, I am exploring how LLMs can handle and adapt to different languages and cultural contexts, which is crucial for their global applications.
 
-If you share similar interests in my work or have an inclination to explore potential collaboration opportunities, feel free to contact me!
+If you share similar interests in my work or have an inclination to explore potential collaboration opportunities, feel free to contact me(E-mail: xwsun24@m.fudan.edu.cn).
 
 <!--
 Getting started
